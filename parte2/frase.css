@@ -19,7 +19,7 @@ body {
 #testoAlternato p {
   color: #000;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 15px;
   font-family: "Bree Serif";
   background-color: white;
   padding: 20px;
@@ -27,7 +27,7 @@ body {
 }
 #testoAlternato {
   width: 500px;
-  border: 2px solid black;
+  border: 5px solid black;
   position: relative;
 }
 
@@ -35,7 +35,7 @@ body {
   font-weight: bold;
   position: absolute;
   color: rgb(134, 200, 200);
-  font-size: 15px;
+  font-size: 25px;
   opacity: 0;
   margin-left: 10px;
 
